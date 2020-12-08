@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="greeting_message">Welcome to the converter app!</string>
+    <string name="top_left">top_left</string>
+    <string name="top_middle">top_middle</string>
+    <string name="top_right">top_right</string>
+    <string name="middle_left">middle_left</string>
+    <string name="middle_middle">middle_middle</string>
+    <string name="bottom_right">bottom_right</string>
+    <string name="middle_right">middle_right</string>
+    <string name="bottom_left">bottom_left</string>
+    <string name="bottom_middle">bottom_middle</string>
+
+</resources>
